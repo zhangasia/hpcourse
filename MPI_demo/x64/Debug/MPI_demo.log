@@ -1,0 +1,50 @@
+﻿  main.c
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(58,21): warning C4047: “函数”:“int *”与“int [44][44]”的间接级别不同
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(58,21): warning C4024: “inita”: 形参和实参 4 的类型不同
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(60,14): warning C4047: “函数”:“int *”与“int [44][44]”的间接级别不同
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(60,14): warning C4024: “mv”: 形参和实参 2 的类型不同
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(93,1): warning C4010: 单行注释包含行继续符
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(95,1): warning C4010: 单行注释包含行继续符
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(400,1): warning C4010: 单行注释包含行继续符
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(401,1): warning C4010: 单行注释包含行继续符
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(35,6): warning C4101: “ranks”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(32,19): warning C4101: “colcom”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(27,6): warning C4101: “offside”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(19,8): warning C4101: “rhs”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(34,18): warning C4101: “newgrp”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(17,8): warning C4101: “a”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(34,12): warning C4101: “grp1”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(20,6): warning C4101: “rcounts”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(16,20): warning C4101: “extnewtp”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(16,11): warning C4101: “sizeabc”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(24,13): warning C4101: “k”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(21,11): warning C4101: “displs”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(35,16): warning C4101: “gnp”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(18,8): warning C4101: “b”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(36,6): warning C4101: “p”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(29,16): warning C4101: “resmxl”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(32,11): warning C4101: “rowcom”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(24,10): warning C4101: “en”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(24,8): warning C4101: “j”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(18,19): warning C4101: “c”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(15,6): warning C4101: “x”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(12,6): warning C4101: “matr”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(11,11): warning C4101: “narray”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(16,29): warning C4101: “lowsize”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(35,20): warning C4101: “giam”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(31,13): warning C4101: “colid”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(29,11): warning C4101: “mxl”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(22,8): warning C4101: “fp”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(18,30): warning C4101: “w”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(14,13): warning C4101: “st”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(25,6): warning C4101: “bnp”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(11,23): warning C4101: “marray”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(31,6): warning C4101: “rowid”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(18,40): warning C4101: “u”: 未引用的局部变量
+E:\MPI_projects\MPI_demo\MPI_demo\main.c(13,15): warning C4101: “newtp”: 未引用的局部变量
+  rcmatmul.c
+E:\MPI_projects\MPI_demo\MPI_demo\rcmatmul.c(19,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\MPI_projects\MPI_demo\MPI_demo\rcmatmul.c(31,56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  snglscan.c
+  正在生成代码...
+  MPI_demo.vcxproj -> E:\MPI_projects\MPI_demo\x64\Debug\MPI_demo.exe
